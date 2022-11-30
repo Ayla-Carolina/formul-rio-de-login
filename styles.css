@@ -1,0 +1,10 @@
+.card-body{
+    display: flex;
+    align-items: center;
+  
+  }
+  
+  .title-body  {
+    text-align: center;
+  }
+ 
